@@ -1,0 +1,106 @@
+# 📊 Power BI Dashboard Projects
+
+This repository contains a collection of **interactive Power BI dashboards** developed to analyze business, sales, finance, and entertainment data.  
+These projects showcase strong skills in **data modeling, DAX, visualization, and business storytelling**.
+
+---
+
+## 🚀 Dashboards Overview
+
+---
+
+## 1️⃣ AW Sales Dashboard
+
+**Description:**  
+A complete sales performance dashboard built to analyze revenue, orders, returns, and product performance across regions and time.
+
+**Key Features:**
+- Date range slicer for dynamic analysis
+- Monthly revenue, orders, and returns KPIs
+- Category & subcategory-wise sales distribution
+- Top products by orders and profits
+- Region-wise analysis (Europe, North America, Pacific)
+- Interactive map visualization
+
+**Skills Used:**
+- DAX measures & KPIs  
+- Time intelligence  
+- Drill-through & navigation  
+- Business-focused visual design  
+
+---
+
+## 2️⃣ Corporate Spend Analysis Dashboard
+
+**Description:**  
+A financial analytics dashboard focused on **YTD IT spend analysis**, comparing actual vs planned spending and identifying variances.
+
+**Key Features:**
+- Actual vs Plan spend by IT Area
+- Variance % analysis by country/region (map)
+- Period-wise spend trends
+- Sankey visual for variance flow
+- Dark theme corporate UI
+
+**Skills Used:**
+- Advanced DAX calculations  
+- Financial variance analysis  
+- Custom themes & UI design  
+- Executive-level reporting  
+
+---
+
+## 3️⃣ Netflix Content Analysis Dashboard
+
+**Description:**  
+An entertainment analytics dashboard providing insights into Netflix movies and TV shows across countries, genres, and years.
+
+**Key Features:**
+- Total titles, movies, shows & IMDB score KPIs
+- Country-wise content distribution
+- Genre-wise and age certification analysis
+- Release year trend analysis
+- Movie / Show toggle navigation
+- Interactive slicers
+
+**Skills Used:**
+- Data cleaning & transformation  
+- Trend and categorical analysis  
+- Interactive navigation & UX  
+- Data storytelling  
+
+---
+
+## 4️⃣ Choco Boom Sales Dashboard
+
+**Description:**  
+A product-focused sales dashboard created for a chocolate brand (**Choco Boom**) to track sales performance across products, months, years, and regions.
+
+**Key Features:**
+- Year selector (2023 / 2024)
+- Month-wise slicer
+- KPIs: Total Sales, Avg Sales, Total Orders, Avg Cost per Box
+- Product-wise sales ranking
+- Category comparison (Bars, Bites, Other)
+- Region-wise sales (APAC, Americas, Europe)
+- Sales trend over time
+- Page navigation buttons (Main Page, Sales Person, Delish, Juicies, Tempo, Yummies)
+
+**Skills Used:**
+- Power BI data modeling  
+- KPI & DAX calculations  
+- Time-based analysis  
+- UX-focused dashboard design  
+
+---
+
+## 🛠 Tools & Technologies
+- Power BI  
+- DAX  
+- Power Query  
+- Data Modeling  
+- Data Visualization & Storytelling  
+
+---
+
+## 📂 Repository Structure
